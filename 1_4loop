@@ -1,0 +1,5 @@
+for var in java python go
+do
+  echo "$var"
+done
+
