@@ -12,3 +12,5 @@ done
 
 echo "out of loop"
 #new comment
+free -m
+uptime
